@@ -1,0 +1,6 @@
+bin/*
+include/*
+lib/*
+.idea/workspace.xml
+.idea/tasks.xml
+__pycache__
